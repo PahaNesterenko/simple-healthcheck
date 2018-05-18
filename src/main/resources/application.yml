@@ -1,0 +1,8 @@
+
+
+tcp:
+  port: 9999
+
+syslog:
+  charset: UTF-8
+
